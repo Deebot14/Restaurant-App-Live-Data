@@ -1,5 +1,5 @@
 # Restaurant App Live Data
-This project is a simple recipe category browsing app that fetches recipe categories from TheMealDB API and displays them in a grid. Users can navigate to a detailed screen for each category showing the image and description.
+This is a personal project — a simple recipe category browsing app that fetches recipe categories from TheMealDB API and displays them in a grid. Users can navigate to a detailed screen for each category showing the image and description.
 
 ## Programming Languages / Technologies
 Kotlin, Jetpack Compose, Retrofit, Coroutines, Coil, Android Navigation Component
